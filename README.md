@@ -13,3 +13,8 @@ tldr; each macro node is a node for a certain program (feh, libreoffice, vim, et
 
 Not sure how helpful this would actually be though
 Will have to look into it more later.
+
+##Thought 3
+WebSnake. Basically a DFS search of the web (as opposed to a BFS). This follows the first link it sees and every first link on the new page, until it either runs out of links to follow, OR hits a link it's already visited.
+
+I can't think of any practical applications for this at the moment, or even if it would be a good idea. Think about this when you get more sleep
