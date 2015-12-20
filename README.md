@@ -18,3 +18,6 @@ Will have to look into it more later.
 WebSnake. Basically a DFS search of the web (as opposed to a BFS). This follows the first link it sees and every first link on the new page, until it either runs out of links to follow, OR hits a link it's already visited.
 
 I can't think of any practical applications for this at the moment, or even if it would be a good idea. Think about this when you get more sleep
+
+##Thought 4
+Shortest Path algorithm that looks at the angles of paths between s and t, and chooses the path with the closest angle to 0. Since the shortest distance between any two points is a straight line. Of course there will have to be more to this than that, and this would only work in real world scenarios (like with a map).
