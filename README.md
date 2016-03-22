@@ -1,4 +1,4 @@
-# RealLifeCompSci
+# Untested thoughts of things for (mostly algorithms) that have wandered through my mind
 For now, just a text file where I write down crazy ideas that I have about implementing theories and stuff from Computer Science in real life. Look at the readme if you're confused.
 
 A LOT (if not all) of these will be barely more than a "what-if" that crosses my mind at some point during the day. So please don't make fun of me if it's a stupid idea ;-;
