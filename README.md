@@ -24,3 +24,7 @@ Shortest Path algorithm that looks at the angles of paths between s and t, and c
 
 ##Thought 5
 Create new font that is derived from the overlapping form of the 10 top monospace fonts. Sort of like this web app, but with more fonts: https://tiff.herokuapp.com/
+
+##Thought 6
+Bootstrapped Artifical Intelligence. (Or whatever you would call it)  
+Have two separate instances of a basic(-HUGE understatement) AI, that can improve source code. (Ie, make it more efficient, robust, add features whatever. Point them at each other. They both start out with the same source, but Machine A makes changes first, which means Machine B is now "better". Machine B then makes changes to A. Since its "better" though, it won't make the same changes that A made to B. IE, it'll make more intelligent changes / features whatever. Continue until Terminator: Judgement Day occurs.
