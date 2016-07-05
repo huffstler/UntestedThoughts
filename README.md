@@ -21,3 +21,6 @@ I can't think of any practical applications for this at the moment, or even if i
 
 ##Thought 4
 Shortest Path algorithm that looks at the angles of paths between s and t, and chooses the path with the closest angle to 0. Since the shortest distance between any two points is a straight line. Of course there will have to be more to this than that, and this would only work in real world scenarios (like with a map).
+
+##Thought 5
+Create new font that is derived from the overlapping form of the 10 top monospace fonts. Sort of like this web app, but with more fonts: https://tiff.herokuapp.com/
