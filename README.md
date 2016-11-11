@@ -28,3 +28,6 @@ Create new font that is derived from the overlapping form of the 10 top monospac
 ##Thought 6
 Bootstrapped Artifical Intelligence. (Or whatever you would call it)  
 Have two separate instances of a basic(-HUGE understatement) AI, that can improve source code. (Ie, make it more efficient, robust, add features whatever. Point them at each other. They both start out with the same source, but Machine A makes changes first, which means Machine B is now "better". Machine B then makes changes to A. Since its "better" though, it won't make the same changes that A made to B. IE, it'll make more intelligent changes / features whatever. Continue until Terminator: Judgement Day occurs.
+
+##Thought 7
+Would it be easier/more intuitive to call it Storage, Modification, Display instead of Model, View, Controller?
