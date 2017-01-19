@@ -31,3 +31,9 @@ Have two separate instances of a basic(-HUGE understatement) AI, that can improv
 
 ##Thought 7
 Would it be easier/more intuitive to call it Storage, Modification, Display instead of Model, View, Controller?
+
+##Thought 8
+If 
+	Integral(1/x) = infinity but Integral 1/x^2 = 1, then that must mean, (by my own small amount of logic) at some point 1/x^n where 1 < n < 2 is where the area under the curve becomes Convergent, instead of Divergent.
+	
+What is that n if so? And how would one even find it?
